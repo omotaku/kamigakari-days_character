@@ -4,10 +4,10 @@ document.addEventListener('DOMContentLoaded', function() {
     // --- メインキャラクターのリスト ---
     const mainCharacters = [
         { name: "すなみ", link: "characters/sunami.html", color: "sunami-orange" },
-        { name: "かなめ", link: "characters/kaname.html", color: "kaname-gray" },
         { name: "いづね", link: "characters/izune.html", color: "izune-blue" },
         { name: "しのね", link: "characters/shinone.html", color: "shinone-purple" },
-        
+        { name: "かおり", link: "characters/kaori.html", color: "kaori-green" },
+        { name: "かなめ", link: "characters/kaname.html", color: "kaname-gray" },
     ];
 
     // --- サブキャラクターのリスト（新しく追加） ---
