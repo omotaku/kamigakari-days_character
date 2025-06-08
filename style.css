@@ -277,3 +277,16 @@ body[data-theme="kaname"] {
     font-size: 0.9em;
     line-height: 1.5;
 }
+
+/* --- かおりのテーマカラー --- */
+
+/* 目次ボタンのホバー色 */
+.character-link-button[data-color="kaori-green"]:hover {
+    background-color: #ff8a69; /* 落ち着いた森の緑 */
+    color: #ffffff;
+}
+
+/* かおりページの背景 */
+body[data-theme="kaori"] {
+    background: linear-gradient(to bottom right, #faeeea, #f5dfd5);
+}
